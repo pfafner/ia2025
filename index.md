@@ -8,7 +8,7 @@ Este es un curso introductorio a la inteligencia artificial, la cual es un área
 
 Seguidamente, introducimos el tipo más simple de agentes, mediante el estudio de modelos de aprendizaje automática. Mencionamos generalidades sobre diferentes modelos de agrupamiento, clasificación y regresión. Hacemos énfasis en las métricas de evaluación y técnicas para mejorar el desempeño de los modelos. 
 
-Después, el curso hace una revisión de diferentes algoritmos de búsqueda como BFS, DFS, y *backtracking*, entre otros, así como el desarrollo de heurísticas, como el algoritmos A* y algunos métodos de optimización combinatoria: algoritmos genéticos, evolución diferencial o *particle swarm optimization*. Hacemos una introducción a los métodos de búsqueda adversaria, principalmente las técnicas de *minimax*, *expectimax* y *expectiminimax*, vemos la comparación y análisis de complejidad de estos métodos de búsqueda, y técnicas de reducción como el $\alpha$-$\beta$ prunning.
+Después, el curso hace una revisión de diferentes algoritmos de búsqueda como BFS, DFS, y *backtracking*, entre otros, así como el desarrollo de heurísticas, como el algoritmos A* y algunos métodos de optimización combinatoria: algoritmos genéticos, evolución diferencial o *particle swarm optimization*. Hacemos una introducción a los métodos de búsqueda adversaria, principalmente las técnicas de *minimax*, *expectimax* y *expectiminimax*, vemos la comparación y análisis de complejidad de estos métodos de búsqueda, y técnicas de reducción como el $\alpha$-$\beta$ *prunning*.
 
 Luego, combinamos estos conocimientos con el área de probabilidad, para estimar incertidumbre en los modelos de búsqueda. Desarrollaremos métodos de redes bayesianas, y modelos ocultos de Markov y abordaremos tópicos básicos sobre aprendizaje por refuerzo.
 
@@ -18,7 +18,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 # Programa del curso
 <div id='id-programa'/>
 
-[Programa del curso](programa/Programa-ia20254.pdf){:target="_blank"}
+[Programa del curso](programa/Programa-ia2025.pdf){:target="_blank"}
 
 ### Horario
 <div id='id-horario'/>
