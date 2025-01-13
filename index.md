@@ -50,7 +50,9 @@ En el curso se trabajarán 4 proyectos, los cuales se indicarán más adelante.
 
 ### Textos:
 
-* [S. Russell y P. Norvig (2021). *Artificial Intelligence: A Modern Approach*.](http://library.lol/main/9B28FC2A4A9B21237063BC7E6B42DEFD){:target="_blank"}
+* [S. Russell y P. Norvig (2021). *Artificial Intelligence: A Modern Approach*. 4a ed.](https://libgen.li/ads188ec1f979f92af02697f4066f3dd93a264NWNFJ){:target="_blank"}
+
+* [S. Russell y P. Norvig (2013). *Inteligencia Artificial: Un enfoque moderno*. 2a ed.](https://libgen.li/ads6b862ce758b8513e6d5627895d2bfc3dTZVFFXU8){:target="_blank"}
 
 
 ---
