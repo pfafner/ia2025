@@ -32,7 +32,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 
 **No.**  | **Fecha**    | **Tópicos**                                                       | **Recursos**
 -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
-01       | 13.01.2025   | Inicio del curso. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [Wordcloud](otros/Wordcloud.png){:target="_blank"}   
+01       | 13.01.2025   | Inicio del curso. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [Wordcloud](otros/wordcloud.png){:target="_blank"}   
 
 
 # Proyectos del Curso
