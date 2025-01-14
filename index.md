@@ -1,9 +1,5 @@
 # Inteligencia Artificial 2025
 
-<img src="https://freesvg.org/img/warning2.png" alt="Warning!" width="100">
-
-This site is under construction! 
-
 Este es un curso introductorio a la inteligencia artificial, la cual es un área donde se mezclan muchas disciplinas: lógica, programación, matemática, estadística, probabilidad, algoritmos, entre otros. El objetivo del curso es aprender los fundamentos de la inteligencia artificial. El curso comienza haciendo una revisión histórica de diferentes campos de aplicación del área, para luego entrar en los conceptos fundamentales como agentes, espacios de configuraciones y espacios de estados. 
 
 Seguidamente, introducimos el tipo más simple de agentes, mediante el estudio de modelos de aprendizaje automática. Mencionamos generalidades sobre diferentes modelos de agrupamiento, clasificación y regresión. Hacemos énfasis en las métricas de evaluación y técnicas para mejorar el desempeño de los modelos. 
@@ -36,7 +32,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 
 **No.**  | **Fecha**    | **Tópicos**                                                       | **Recursos**
 -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
-01       | 13.01.2025   | Inicio del curso.    |  
+01       | 13.01.2025   | Inicio del curso. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [Wordcloud](otros/Wordcloud.png){:target="_blank"}   
 
 
 # Proyectos del Curso
