@@ -34,6 +34,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
 01       | 13.01.2025   | Inicio del curso. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [Wordcloud](otros/wordcloud.png){:target="_blank"} 
 02       | 15.01.2025   | Agentes. Secuencias de percepción. Ejemplos. <br/> | 
+03       | 20.01.2025   |   | 
 
 
 # Proyectos del Curso
