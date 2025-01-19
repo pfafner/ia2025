@@ -36,7 +36,6 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 02       | 15.01.2025   | Agentes. Secuencias de percepción. Ejemplos. <br/> | 
 
 
-
 # Proyectos del Curso
 <div id='id-proj'/>
 
