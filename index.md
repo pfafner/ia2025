@@ -34,7 +34,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
 01       | 13.01.2025   | Inicio del curso. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [Wordcloud](otros/wordcloud.png){:target="_blank"} 
 02       | 15.01.2025   | Agentes. Secuencias de percepción. Ejemplos. <br/> | 
-03       | 20.01.2025   |   | [Descripción de Agentes.xlsx](otros/Descripcio%CC%81n%20de%20Agentes.xlsx){:target="_blank"} <br/> [Clasificación de Ambientes.xlsx](otros/Clasificacio%CC%81n%20de%20Ambientes.xlsx){:target="_blank"}
+03       | 20.01.2025   | Ambientes. Tipos de agentes. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [Descripción de Agentes.xlsx](otros/Descripcio%CC%81n%20de%20Agentes.xlsx){:target="_blank"} <br/> [Clasificación de Ambientes.xlsx](otros/Clasificacio%CC%81n%20de%20Ambientes.xlsx){:target="_blank"}
 
 
 # Proyectos del Curso
