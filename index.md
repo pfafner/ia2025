@@ -37,8 +37,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 03       | 20.01.2025   | Ambientes. Tipos de agentes. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [Descripción de Agentes.xlsx](otros/Descripcio%CC%81n%20de%20Agentes.xlsx){:target="_blank"} <br/> [Clasificación de Ambientes.xlsx](otros/Clasificacio%CC%81n%20de%20Ambientes.xlsx){:target="_blank"} 
 04       | 22.01.2025   | Distribuciones. Densidad y función de distribución. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | [rvs.ipynb](code/rvs.ipynb){:target="_blank"} [exploration.ipynb](code/exploration.ipynb){:target="_blank"} 
 05       | 27.01.2025   | Gráficos de probabilidad. Ajuste y contraste de distribuciones. [Aula 05](aulas/Aula05.ipynb){:target="_blank"} | [qqplots.ipynb](code/qqplots.ipynb){:target="_blank"} [fitting.ipynb](code/fitting.ipynb){:target="_blank"} 
-06       | 27.01.2025   | Estadísticos. Distribuciones multivariadas. [Aula 06](aulas/Aula06.ipynb){:target="_blank"}  
-| [center-data.ipynb](code/center-data.ipynb){:target="_blank"} 
+06       | 27.01.2025   | Estadísticos. Distribuciones multivariadas. [Aula 06](aulas/Aula06.ipynb){:target="_blank"} | [center-data.ipynb](code/center-data.ipynb){:target="_blank"} 
 
 
 # Proyectos del Curso
