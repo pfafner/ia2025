@@ -38,7 +38,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 04       | 22.01.2025   | Distribuciones. Densidad y función de distribución. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | [rvs.ipynb](code/rvs.ipynb){:target="_blank"} [exploration.ipynb](code/exploration.ipynb){:target="_blank"} 
 05       | 27.01.2025   | Gráficos de probabilidad. Ajuste y contraste de distribuciones. [Aula 05](aulas/Aula05.pdf){:target="_blank"} | [qqplots.ipynb](code/qqplots.ipynb){:target="_blank"} [fitting.ipynb](code/fitting.ipynb){:target="_blank"} 
 06       | 27.01.2025   | Estadísticos. Distribuciones multivariadas. [Aula 06](aulas/Aula06.pdf){:target="_blank"} | [center-data.ipynb](code/center-data.ipynb){:target="_blank"} 
-07       | 03.02.2025   | Generación de normal multivariada. <br/> | [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} 
+07       | 03.02.2025   | Generación de normal multivariada. <br/> | [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} [svd.ipynb](code/svd.ipynb){:target="_blank"} 
 08       | 03.02.2025   | Análisis de componentes principales (PCA). Interpretación. [Aula 07](aulas/Aula07.pdf){:target="_blank"} [Aula 08](aulas/Aula08.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb){:target="_blank"}  
 
 
