@@ -40,7 +40,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 06       | 27.01.2025   | Estadísticos. Distribuciones multivariadas. [Aula 06](aulas/Aula06.pdf){:target="_blank"} | [center-data.ipynb](code/center-data.ipynb){:target="_blank"} 
 07       | 03.02.2025   | Generación de normal multivariada. <br/> | [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} [svd.ipynb](code/svd.ipynb){:target="_blank"} 
 08       | 03.02.2025   | Análisis de componentes principales (PCA). Interpretación. [Aula 07](aulas/Aula07.pdf){:target="_blank"} [Aula 08](aulas/Aula08.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb){:target="_blank"}  
-09       | 05.02.2025   | Compresión de imágenes con PCA. |  
+09       | 05.02.2025   | Compresión de imágenes con PCA. <br/>  |  [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"} 
 L2       | 05.02.2025   | Lab 2. **Entrega: 12 de febrero.** | [areas.csv](labs/areas.csv){:target="_blank"} [weather.csv](labs/weather.csv){:target="_blank"} <br/> [Lab 2](labs/lab02.pdf){:target="_blank"}   
 
 
