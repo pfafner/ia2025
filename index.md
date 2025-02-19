@@ -43,7 +43,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 09       | 05.02.2025   | Compresión de imágenes con PCA. <br/>  |  [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"} 
 L2       | 05.02.2025   | Lab 2. **Entrega: 12 de febrero.** | [areas.csv](labs/areas.csv){:target="_blank"} [weather.csv](labs/weather.csv){:target="_blank"} <br/> [Lab 2](labs/lab02.pdf){:target="_blank"}   
 10       | 10.02.2025   | Agrupamiento Jerárquico. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
-11       | 10.02.2025   | Algoritmo *K-means* y variantes. Aplicaciones. <br/> [Aula 010](aulas/Aula10.pdf){:target="_blank"} | 
+11       | 10.02.2025   | Algoritmo *K-means* y variantes. Aplicaciones. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | 
 12       | 12.02.2025   | Algoritmos basados en densidad: Mean-shift, DBSCAN, OPTICS, BIRCH. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | 
 13       | 17.02.2025   | Modelación predictiva: clasificación y regresión. Algoritmo KNN. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | 
 14       | 19.02.2025   | Clasificador bayesiano. Naïve Bayes. <br/>  | 
