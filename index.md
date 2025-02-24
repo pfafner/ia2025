@@ -60,9 +60,9 @@ En el curso se trabajarán 4 proyectos, los cuales se indicarán más adelante.
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
- 1       | 24.02.2024   | Proyecto 1 - *Clasificación*.                 | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> 
- 2       | 17.03.2024   | Entrega del proyecto.                         | 
- 3       | 21.03.2024   | Entrega del informe y código.                 | 
+ 1       | 24.02.2025   | Proyecto 1 - *Clasificación*.                 | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> 
+ 2       | 17.03.2025   | Entrega del proyecto.                         | 
+ 3       | 21.03.2025   | Entrega del informe y código.                 | 
 
   
 # Referencias
