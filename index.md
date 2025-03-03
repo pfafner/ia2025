@@ -49,6 +49,8 @@ L2       | 05.02.2025   | Lab 2. **Entrega: 12 de febrero.** | [areas.csv](labs/
 14       | 19.02.2025   | Clasificador bayesiano. Naïve Bayes. <br/>  | 
 15       | 24.02.2025   | Ejemplos de Naïve Bayes. Clasificadores lineales. | 
 16       | 26.02.2025   | Regresión logística. Perceptrón. Redes neuronales. | 
+17       |  |  | 
+
 
 # Proyectos del Curso
 <div id='id-proj'/>
