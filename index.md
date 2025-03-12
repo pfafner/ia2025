@@ -51,7 +51,7 @@ L2       | 05.02.2025   | Lab 2. **Entrega: 12 de febrero.** | [areas.csv](labs/
 16       | 26.02.2025   | Regresión logística. Perceptrón. Redes neuronales. | 
 17       | 03.03.2025   | Ejemplo de red neuronal para regresión. <br/>  | 
 18       | 03.03.2025   | Problemas de búsqueda. <br/>  | 
-19       |   |   |  
+19       | 10.03.2025   | Representación de problemas de búsqueda.  |  
 L3       | 10.03.2025   | Lab 3. **Entrega: 17 de marzo.** | [Lab 3](labs/lab03.pdf){:target="_blank"}   
 
 
