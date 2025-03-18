@@ -55,6 +55,8 @@ L2       | 05.02.2025   | Lab 2. **Entrega: 12 de febrero.** | [areas.csv](labs/
 L3       | 10.03.2025   | Lab 3. **Entrega: 17 de marzo.** | [Lab 3](labs/lab03.pdf){:target="_blank"}   
 20       | 12.03.2025   | Grafo de estados. Árbol de búsqueda. <br/>  |  
 21       | 12.03.2025   | Algoritmos de búsqueda: DFS y BFS. <br/>  |  
+22       | 17.03.2025   | Más algoritmos de búsqueda. <br/>  |  
+L4       | 17.03.2025   | Lab 4. **Entrega: 31 de marzo.** | [Lab 4](labs/lab04.pdf){:target="_blank"}   
 
 
 # Proyectos del Curso
