@@ -55,9 +55,9 @@ L2       | 05.02.2025   | Lab 2. **Entrega: 12 de febrero.** | [areas.csv](labs/
 L3       | 10.03.2025   | Lab 3. **Entrega: 17 de marzo.** | [Lab 3](labs/lab03.pdf){:target="_blank"}   
 20       | 12.03.2025   | Grafo de estados. Árbol de búsqueda. <br/>  |  
 21       | 12.03.2025   | Algoritmos de búsqueda: DFS y BFS. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
-22       | 17.03.2025   | Más algoritmos de búsqueda. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} |  
+22       | 17.03.2025   | Más algoritmos de búsqueda. Búsqueda por costo uniforme. Ejemplos. [Aula 21](aulas/Aula21.pdf){:target="_blank"} |  
 L4       | 17.03.2025   | Lab 4. **Entrega: 31 de marzo.** | [Lab 4](labs/lab04.pdf){:target="_blank"}   
-23       | 19.03.2025   | Heurísticas. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} |  
+23       | 19.03.2025   | Heurísticas. Algoritmos Greedy y A*. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} |  
 24       | 24.03.2025   | Presentación del Proyecto 1. <br/>  |  
 
 
