@@ -59,6 +59,8 @@ L3       | 10.03.2025   | Lab 3. **Entrega: 17 de marzo.** | [Lab 3](labs/lab03.
 L4       | 17.03.2025   | Lab 4. **Entrega: 31 de marzo.** | [Lab 4](labs/lab04.pdf){:target="_blank"}   
 23       | 19.03.2025   | Heurísticas. Algoritmos Greedy y A*. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} |  
 24       | 24.03.2025   | Presentación del Proyecto 1. <br/>  |  
+25       | 24.03.2025   | Presentación del Proyecto 1. <br/>  |  
+26       | 02.03.2025   | Presentación del Proyecto 1. <br/>  |  
 
 
 # Proyectos del Curso
