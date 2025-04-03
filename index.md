@@ -58,9 +58,9 @@ L3       | 10.03.2025   | Lab 3. **Entrega: 17 de marzo.** | [Lab 3](labs/lab03.
 22       | 17.03.2025   | Más algoritmos de búsqueda. Búsqueda por costo uniforme. Ejemplos. [Aula 21](aulas/Aula21.pdf){:target="_blank"} |  
 L4       | 17.03.2025   | Lab 4. **Entrega: 31 de marzo.** | [Lab 4](labs/lab04.pdf){:target="_blank"}   
 23       | 19.03.2025   | Heurísticas. Algoritmos Greedy y A*. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} |  
-24       | 24.03.2025   | Presentación del Proyecto 1. <br/>  |  
-25       | 24.03.2025   | Presentación del Proyecto 1. <br/>  |  
-26       | 02.03.2025   | Presentación del Proyecto 1. <br/>  |  
+24       | 24.03.2025   | Presentación del Proyecto 1. <br/> |  
+25       | 24.03.2025   | Laboratorio sobre métodos de búsqueda y A*. <br/> |  
+26       | 02.04.2025   | Árbol de expansión. Algoritmo de Kruskal y algoritmo de Prim.  |  
 
 
 # Proyectos del Curso
