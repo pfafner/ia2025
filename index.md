@@ -61,6 +61,7 @@ L4       | 17.03.2025   | Lab 4. **Entrega: 31 de marzo.** | [Lab 4](labs/lab04.
 24       | 24.03.2025   | Presentación del Proyecto 1. <br/> |  
 25       | 24.03.2025   | Laboratorio sobre métodos de búsqueda y A*. <br/> |  
 26       | 02.04.2025   | Árbol de expansión. Algoritmo de Kruskal y algoritmo de Prim.  |  
+27       | 07.04.2025   | Búsqueda con restricciones. *Backtracking*. Filtrado y consistencia por arcos.  |  
 
 
 # Proyectos del Curso
