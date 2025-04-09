@@ -74,24 +74,19 @@ En el curso se trabajarán 4 proyectos, los cuales se indicarán más adelante.
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
- 1       | 24.02.2025   | Proyecto 1 - *Clasificación*.                 | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> 
+ 1       | 24.02.2025   | Proyecto 1 - *Machine Learning*.              | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> 
  2       | 17.03.2025   | Entrega del proyecto.                         | 
  3       | 21.03.2025   | Entrega del informe y código.                 | 
 
-## Horarios presentación Proyecto 1
 
-**No.**  | **Hora**    
--------- | ------------ 
- 1       | 5:20 - ksimeritos tristes
- 2       | 5:35 - KOEZCA
- 3       | 5:50 - ABBA/AVA
- 4       | 6:05 - Los Archeros
- 5       | 6:20 - FM.D
- 6       | 6:35 - Coban Imperial
- 7       | 6:50 - Academic Weapons
- 8       | 7:05 - O LINUX
- 9       | 7:20 - Grupo 8
- 10      | 7:35 - Alan Britos
+## Proyecto 2 (Algoritmos de búsqueda)
+<div id='id-proj2'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 08.04.2025   | Proyecto 2 - *Búsqueda*.                      | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> 
+ 2       | 12.05.2025   | Entrega del proyecto.                         | 
+ 3       | 16.05.2025   | Entrega del informe y código.                 | 
 
 
 # Referencias
