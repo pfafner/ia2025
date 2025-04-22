@@ -61,9 +61,9 @@ L4       | 17.03.2025   | Lab 4. **Entrega: 31 de marzo.** | [Lab 4](labs/lab04.
 24       | 24.03.2025   | Presentación del Proyecto 1. <br/> |  
 25       | 24.03.2025   | Laboratorio sobre métodos de búsqueda y A*. <br/> |  
 26       | 02.04.2025   | Árbol de expansión. Algoritmo de Kruskal y algoritmo de Prim.  |  
-27       | 07.04.2025   | Búsqueda con restricciones. *Backtracking*. Filtrado y consistencia por arcos.  |  
-28       | 09.04.2025   | Búsqueda adversaria I. Algoritmo Minimax.  |  
-29       | 21.04.2025   | Búsqueda adversaria II. Poda alpha-beta. Algoritmo Expectiminimax. |  
+27       | 07.04.2025   | Búsqueda con restricciones. *Backtracking*. Filtrado y consistencia por arcos. [Aula 24](aulas/Aula24.pdf){:target="_blank"} |  
+28       | 09.04.2025   | Búsqueda adversaria I. Algoritmo Minimax. [Aula 25](aulas/Aula25.pdf){:target="_blank"} |  
+29       | 21.04.2025   | Búsqueda adversaria II. Poda alpha-beta. Algoritmo Expectiminimax. [Aula 26](aulas/Aula26.pdf){:target="_blank"} |  
 L5       | 21.04.2025   | Lab 5. **Entrega: 28 de abril.** | [Lab 5](labs/lab05.pdf){:target="_blank"}   
 
 
