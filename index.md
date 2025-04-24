@@ -65,6 +65,7 @@ L4       | 17.03.2025   | Lab 4. **Entrega: 31 de marzo.** | [Lab 4](labs/lab04.
 28       | 09.04.2025   | Búsqueda adversaria I. Algoritmo Minimax. [Aula 25](aulas/Aula25.pdf){:target="_blank"} |  
 29       | 21.04.2025   | Búsqueda adversaria II. Poda alpha-beta. Algoritmo Expectiminimax. [Aula 26](aulas/Aula26.pdf){:target="_blank"} |  
 L5       | 21.04.2025   | Lab 5. **Entrega: 28 de abril.** | [Lab 5](labs/lab05.pdf){:target="_blank"}   
+1  || | | 
 
 
 # Proyectos del Curso
