@@ -66,6 +66,7 @@ L4       | 17.03.2025   | Lab 4. **Entrega: 31 de marzo.** | [Lab 4](labs/lab04.
 29       | 21.04.2025   | Búsqueda adversaria II. Poda alpha-beta. Algoritmo Expectiminimax. [Aula 26](aulas/Aula26.pdf){:target="_blank"} |  
 L5       | 21.04.2025   | Lab 5. **Entrega: 28 de abril.** | [Lab 5](labs/lab05.pdf){:target="_blank"}   
 30       | 23.04.2025   | Expectiminimax. |   
+30       | 28.04.2025   | *Monte Carlo Tree Search* (MCTS). |   
 
 
 # Proyectos del Curso
