@@ -67,6 +67,7 @@ L4       | 17.03.2025   | Lab 4. **Entrega: 31 de marzo.** | [Lab 4](labs/lab04.
 L5       | 21.04.2025   | Lab 5. **Entrega: 28 de abril.** | [Lab 5](labs/lab05.pdf){:target="_blank"}   
 30       | 23.04.2025   | Expectiminimax. |   
 30       | 28.04.2025   | *Monte Carlo Tree Search* (MCTS). |   
+L6       | 28.04.2025   | Lab 6. **Entrega: 07 de mayo.** | [Lab 6](labs/lab06.pdf){:target="_blank"}   
 
 
 # Proyectos del Curso
