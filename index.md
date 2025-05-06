@@ -98,6 +98,23 @@ En el curso se trabajarán 4 proyectos, los cuales se indicarán más adelante.
  3       | 16.05.2025   | Entrega del informe y código.                 | 
 
 
+## Horarios Proyecto 2 (12 de mayo, sala CIT-401)
+<div id='id-proj2'/>
+
+**No.**  | **Hora**   | **Grupo**   
+-------- | ---------- | -----------------------
+ 1       | 5:20       | Cobán Imperial 
+ 2       | 5:35       | FM.D 
+ 3       | 5:50       | ABBA/AVA 
+ 4       | 6:05       | Academic Weapons 
+ 5       | 6:20       | Grupo 8 
+ 6       | 6:35       | Alan Britos 
+ 7       | 6:50       | Los Archeros 
+ 8       | 7:05       | O LINUX 
+ 9       | 7:20       | KOEZCA 
+ 10      | 7:35       | ksimeritos tristes 
+ 
+ 
 # Referencias
 <div id='id-ref'/>
 
