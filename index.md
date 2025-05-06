@@ -68,6 +68,9 @@ L5       | 21.04.2025   | Lab 5. **Entrega: 28 de abril.** | [Lab 5](labs/lab05.
 30       | 23.04.2025   | Expectiminimax. |   
 30       | 28.04.2025   | *Monte Carlo Tree Search* (MCTS). |   
 L6       | 28.04.2025   | Lab 6. **Entrega: 07 de mayo.** | [Lab 6](labs/lab06.pdf){:target="_blank"}   
+31       | 30.04.2025   | Repaso de probabilidad. <br/> | 
+31       | 05.05.2025   | Probabilidad condicional. <br/> | 
+L7       | 05.05.2025   | Lab 7. **Entrega: 14 de mayo.** | [Lab 7](labs/lab07.xlsx){:target="_blank"}   
 
 
 # Proyectos del Curso
