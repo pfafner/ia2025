@@ -99,6 +99,17 @@ En el curso se trabajarán 4 proyectos, los cuales se indicarán más adelante.
  3       | 16.05.2025   | Entrega del informe y código.                 | 
 
 
+## Proyecto 3 (Juegos adversarios)
+<div id='id-proj2'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 14.05.2025   | Proyecto 2 - *Búsqueda*.                      | [Proyecto 3](proyectos/Proyecto3.pdf){:target="_blank"} <br/> 
+ 2       | 27.05.2025   | Simulacro de prueba 1.                        | 
+ 3       | 29.05.2025   | Simulacro de prueba 2.                        | 
+ 4       | 04.06.2025   | Torneo.                                       | 
+ 5       | 06.06.2025   | Entrega del informe y código.                 | 
+
 
 # Referencias
 <div id='id-ref'/>
