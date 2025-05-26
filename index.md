@@ -107,10 +107,13 @@ En el curso se trabajarán 4 proyectos, los cuales se indicarán más adelante.
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
  1       | 14.05.2025   | Proyecto 2 - *Búsqueda*.                      | [Proyecto 3](proyectos/Proyecto3.pdf){:target="_blank"} <br/> 
- 2       | 27.05.2025   | Simulacro de prueba 1.                        | 
- 3       | 29.05.2025   | Simulacro de prueba 2.                        | 
+ 2       | 26.05.2025   | Simulacro de prueba 1.                        | 
+ 3       | 28.05.2025   | Simulacro de prueba 2.                        | 
  4       | 04.06.2025   | Torneo.                                       | 
  5       | 06.06.2025   | Entrega del informe y código.                 | 
+
+Repo para descargar el *client* para conectarse al servidor del torneo: <br/> 
+[https://github.com/JavierFongG/uvg-othello-client](https://github.com/JavierFongG/uvg-othello-client){:target="_blank"}
 
 
 # Referencias
