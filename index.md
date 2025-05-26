@@ -79,7 +79,7 @@ L7       | 05.05.2025   | Lab 7. **Entrega: 14 de mayo.** | [Lab 7](labs/lab07.x
 # Proyectos del Curso
 <div id='id-proj'/>
 
-En el curso se trabajarán 4 proyectos, los cuales se indicarán más adelante.
+En el curso se trabajarán tres proyectos, los cuales se indicarán más adelante.
 
 ## Proyecto 1 (Machine Learning)
 <div id='id-proj1'/>
