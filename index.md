@@ -74,6 +74,7 @@ L7       | 05.05.2025   | Lab 7. **Entrega: 14 de mayo.** | [Lab 7](labs/lab07.x
 33       | 07.05.2025   | Ejercicios de probabilidad. | 
 34       | 12.05.2025   | Presentación del Proyecto 2. <br/> | 
 35       | 14.05.2025   | Redes bayesianas. <br/> | 
+36       | 26.05.2025   | Pruebas y simulacro de torneo. <br/> | 
 
 
 # Proyectos del Curso
