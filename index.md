@@ -75,6 +75,7 @@ L7       | 05.05.2025   | Lab 7. **Entrega: 14 de mayo.** | [Lab 7](labs/lab07.x
 34       | 12.05.2025   | Presentación del Proyecto 2. <br/> | 
 35       | 14.05.2025   | Redes bayesianas. <br/> | 
 36       | 26.05.2025   | Pruebas y simulacro de torneo. <br/> | 
+37       | 28.05.2025   | Simulacro de prueba. <br/> | 
 
 
 # Proyectos del Curso
@@ -107,11 +108,9 @@ En el curso se trabajarán tres proyectos, los cuales se indicarán más adelant
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
- 1       | 14.05.2025   | Proyecto 2 - *Búsqueda*.                      | [Proyecto 3](proyectos/Proyecto3.pdf){:target="_blank"} <br/> 
- 2       | 26.05.2025   | Simulacro de prueba 1.                        | 
- 3       | 28.05.2025   | Simulacro de prueba 2.                        | 
- 4       | 04.06.2025   | Torneo.                                       | 
- 5       | 06.06.2025   | Entrega del informe y código.                 | 
+ 1       | 14.05.2025   | Proyecto 3 - *Othello*.                       | [Proyecto 3](proyectos/Proyecto3.pdf){:target="_blank"} <br/> 
+ 2       | 04.06.2025   | Torneo.                                       | 
+ 3       | 06.06.2025   | Entrega del informe y código.                 | 
 
 Repo para descargar el *server* del torneo: <br/>
 [https://github.com/JavierFongG/uvg-othello-server](https://github.com/JavierFongG/uvg-othello-server){:target="_blank"} <br/> <br/>
