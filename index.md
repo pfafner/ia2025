@@ -112,12 +112,6 @@ En el curso se trabajarán tres proyectos, los cuales se indicarán más adelant
  2       | 04.06.2025   | Torneo.                                       | 
  3       | 06.06.2025   | Entrega del informe y código.                 | 
 
-Repo para descargar el *server* del torneo: <br/>
-[https://github.com/JavierFongG/uvg-othello-server](https://github.com/JavierFongG/uvg-othello-server){:target="_blank"} <br/> <br/>
-
-Repo para descargar el *client* para conectarse al servidor del torneo: <br/> 
-[https://github.com/JavierFongG/uvg-othello-client](https://github.com/JavierFongG/uvg-othello-client){:target="_blank"}
-
 
 # Referencias
 <div id='id-ref'/>
