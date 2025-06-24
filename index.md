@@ -24,7 +24,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 ### Office Hours
 <div id='id-office'/>
 
-* Por definir. Por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
+* Por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
 
 
 # Material del curso
